@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm shahd_omer</h1>
 <h3 align="center">A passionate about software engineering</h3>
 
+<div align="center">
+  <p>Profile Visitors</p>
+  <img align="center" src = "https://profile-counter.glitch.me/shahd-omer/count.svg" alt ="Loading">
+  <br><br>
+</div>
+                          
 - 🔭 I’m currently working on **research papers, ml project ,software engineering**
 
 <h3 align="left">Connect with me:</h3>
